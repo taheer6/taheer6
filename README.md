@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Taheer 👋
 
 <!--
 **taheer6/taheer6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
